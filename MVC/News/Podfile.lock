@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.5.1)
+  - BulletinBoard (1.3.0)
+  - Cartography (2.0.0)
+  - Kingfisher (4.5.0)
+  - NVActivityIndicatorView (4.1.0):
+    - NVActivityIndicatorView/Presenter (= 4.1.0)
+  - NVActivityIndicatorView/Presenter (4.1.0)
+  - ObjectMapper (3.1.0)
+  - ParallaxHeader (2.0.0)
+  - SwiftyJSON (4.0.0)
+  - TableFlip (1.2)
+  - ViewAnimator (1.0.2)
+  - XLPagerTabStrip (8.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - BulletinBoard
+  - Cartography (~> 2.0.0)
+  - Kingfisher (~> 4.0)
+  - NVActivityIndicatorView
+  - ObjectMapper
+  - ParallaxHeader (~> 2.0.0)
+  - SwiftyJSON
+  - TableFlip
+  - ViewAnimator
+  - XLPagerTabStrip (~> 8.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BulletinBoard
+    - Cartography
+    - Kingfisher
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - ParallaxHeader
+    - SwiftyJSON
+    - TableFlip
+    - ViewAnimator
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  BulletinBoard: 23c9d98cac654fd484d76f2a0655669974e9bd9c
+  Cartography: d295eb25ab54bb57eecd8c2f04e9648c850f1281
+  Kingfisher: 26ae0473102b77b575da51960c932431e3745407
+  NVActivityIndicatorView: dc4726052dc24e89fa8576d43acf9e96f61d49db
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  ParallaxHeader: fb6ee97915626454f3c029a97b424f79a777c642
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  TableFlip: 2ae22773412b295a7cbc54d95b44085bb28092f6
+  ViewAnimator: d7b18e0be98e05807f61ad886a36363727209377
+  XLPagerTabStrip: d1ab378af0923320ec0b5eab11d7b2f803d31261
+
+PODFILE CHECKSUM: ae8c673e5cada9551db921dabf3ee8d2712e9f0b
+
+COCOAPODS: 1.5.3

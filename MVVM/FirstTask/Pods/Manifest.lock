@@ -1,0 +1,16 @@
+PODS:
+  - Cartography (3.1.0)
+
+DEPENDENCIES:
+  - Cartography
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cartography
+
+SPEC CHECKSUMS:
+  Cartography: 1988b7578871a56c036e7af17195cb2190edf18c
+
+PODFILE CHECKSUM: 9b2025ac556c5b3f50dfba1fedb109cde5ef7f38
+
+COCOAPODS: 1.5.3
